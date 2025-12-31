@@ -23,7 +23,7 @@
 - AI/ML Research Open Source contribution
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BhoomiRaghav&theme=radical&hide_border=true&cache_seconds=86400" alt="BhoomiRaghav's GitHub Streak" width="49%" />
 </p>
