@@ -7,7 +7,8 @@
 - 🚀 Curious about startups and the idea of creating something meaningful in AI  
 - 🤝 Open to collaborations and learning through real projects  
 - 🌐 Comfortable with **Web Development** and building practical solutions  
-- 🎸 Loves playing guitar, 🚴 cycling, and 🏐 volleyball — a chill mind builds better code  
+- 🎸 Loves playing guitar, 🚴 cycling, and 🏐 volleyball — a chill mind builds better code
+- 🏆 Built a website for a hackathon — **[EduSaga](https://edusaga.vercel.app/)** 
 
 
 ---
@@ -34,8 +35,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhoomiRaghav&theme=tokyonight)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhoomiRaghav&theme=tokyonight)
