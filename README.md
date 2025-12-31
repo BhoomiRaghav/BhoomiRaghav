@@ -1,49 +1,67 @@
-# 👋 Hi, I'm Bhoomi Raghav
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Bhoomi Raghav</h1>
+<h3 align="center">Developer</h3>
 
-## 🌟 About Me
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=BhoomiRaghav">
+    <img src="https://komarev.com/ghpvc/?username=BhoomiRaghav&label=Profile%20views&color=00FFFF&style=flat-square" alt="BhoomiRaghav's profile views" />
+  </a>
+</p>
 
-- 🐍 Python Developer who enjoys learning and experimenting with new things  
-- 🤖 Exploring the path of **AI / ML** and slowly building **my own AI**  
-- 🚀 Curious about startups and the idea of creating something meaningful in AI  
-- 🤝 Open to collaborations and learning through real projects  
-- 🌐 Comfortable with **Web Development** and building practical solutions  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🐍 Python Developer who enjoys learning and experimenting with new things
+- 🤖 Exploring the path of AI / ML and slowly building my own AI
+- 🚀 Curious about startups and the idea of creating something meaningful in AI
+- 🤝 Open to collaborations and learning through real projects
+- 🌐 Comfortable with Web Development and building practical solutions
 - 🎸 Loves playing guitar, 🚴 cycling, and 🏐 volleyball — a chill mind builds better code
-- 🏆 Built a website for a hackathon — **[EduSaga](https://edusaga.vercel.app/)** 
+- 🏆 Built a website for a hackathon — EduSaga
 
 
----
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/romii.__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomi-raghav)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Bhoomi_Raghav)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhoomirghv01@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+## 🧠 My Focus Areas
+- AI/ML Research Open Source contribution
 
 
----
-
-## 📊 GitHub Stats
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhoomiRaghav&theme=tokyonight)
-
----
-
-## 🏆 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=BhoomiRaghav&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BhoomiRaghav&theme=radical&hide_border=true&cache_seconds=86400" alt="BhoomiRaghav's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=BhoomiRaghav&theme=radical&radius=10" alt="BhoomiRaghav's Activity Graph" />
+</p>
 
 
+## 🛠️ Languages & Tools
 
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhoomiRaghav&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/bhoomi-raghav/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/Bhoomi_Raghav" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:bhoomirghv01@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
