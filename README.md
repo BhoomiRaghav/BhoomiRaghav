@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhoomiRaghav)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhoomiRaghav&theme=tokyonight)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhoomiRaghav&theme=tokyonight)
