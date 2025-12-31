@@ -16,7 +16,7 @@
 - 🤝 Open to collaborations and learning through real projects
 - 🌐 Comfortable with Web Development and building practical solutions
 - 🎸 Loves playing guitar, 🚴 cycling, and 🏐 volleyball — a chill mind builds better code
-- 🏆 Built a website for a hackathon — **[EduSaga]**(https://edusaga.vercel.app)
+- 🏆 Built a website for a hackathon — [**EduSaga**](https://edusaga.vercel.app)
 
 
 ## 🧠 My Focus Areas
