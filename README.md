@@ -1,13 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Bhoomi Raghav</h1>
 <h3 align="center">Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=BhoomiRaghav">
-    <img src="https://komarev.com/ghpvc/?username=BhoomiRaghav&label=Profile%20views&color=00FFFF&style=flat-square" alt="BhoomiRaghav's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🐍 Python Developer who enjoys learning and experimenting with new things
@@ -18,9 +11,22 @@
 - 🎸 Loves playing guitar, 🚴 cycling, and 🏐 volleyball — a chill mind builds better code
 - 🏆 Built a website for a hackathon — [**EduSaga**](https://edusaga.vercel.app)
 
+---
+
 
 ## 🧠 My Focus Areas
 - AI/ML Research Open Source contribution
+
+---
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=BhoomiRaghav">
+    <img src="https://komarev.com/ghpvc/?username=BhoomiRaghav&label=Profile%20views&color=00FFFF&style=flat-square" alt="BhoomiRaghav's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 
 
 ## 📊 GitHub Stats
